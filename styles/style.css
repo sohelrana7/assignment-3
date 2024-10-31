@@ -3,3 +3,10 @@
 body {
   font-family: "Manrope", sans-serif;
 }
+
+.connect-section {
+  background-image: url("../assets/bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
